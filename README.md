@@ -1,30 +1,35 @@
 <div>
   
 ## To-Do
-Application of pomodoro techniques.
+Application of to-do-list
 
 ## Deploy
-- https://pomodoro-app-pedr1n.netlify.app/
+- https://to-do-react-pedr1n.netlify.app
 
 ## Functionalities
-- User has 25 minutes of working time and 5 minutes of resting time.
-- User can see the completed cycles, working time and number of pomodoros.
+- Tasks can be added, edited and deleted.
+- Tasks with an empty value and/or a duplicate value of an existing one cannot be created.
+- Tasks are saved in the browser's LocalStorage.
 
 ## Technologies used
-- **Frontend:** React(TSX), Typescript
+- **Frontend:** React, Javascript
 - **Stylization:** Css
 </div>
 
 <div>
   
 ## Lista de tarefas
-Aplicativo de técnicas de pomodoro.
+Aplicativo de lista de tarefas
   
 ## Funcionalidades
-- O usuário tem 25 minutos de trabalho e 5 minutos de descanso.
-- O usuário pode ver os ciclos concluídos, tempo de trabalho e quantidade de pomodoros.
+- As tarefas podem ser adicionadas, editadas e excluídas.
+- Tarefas com valor vazio e/ou valor duplicado de um existente não podem ser criadas.
+- As tarefas são salvas no LocalStorage do navegador.
 
 ## Tecnologias utilizadas
-- **Frontend:** React(TSX), Typescript
+- **Frontend:** React, Javascript
 - **Estilização:** Css
 </div>
+
+
+
